@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0.0",
+  "releasedAt": "2026-11-20 21:35",
+  "mandatory": false,
+  "changelog": "• Versão inicial v2.0.0 na nuvem Ntech Enterprise\n• 101 otimizações completas de FPS e baixa latência (AES-256-GCM)\n• Intel Hybrid P-Core Pinning + Game Booster 24/7 compatível com Kaspersky\n• Presets competitivos otimizados para VALORANT, CS2, Fortnite e Apex\n• Atualizações automáticas verificadas por ECDSA P-256 e SHA-256",
+  "downloadUrl": "https://github.com/N1n3sEdu/ntech-optimizer-updates/releases/download/v2.0.0/Ntech.Optimizer.exe",
+  "sha256": "BC54028FE5E37598E9CFB3E49C74F16EC8E546C175B13847C873E01079BC8D51",
+  "fileSizeBytes": 2305493,
+  "signature": "oFVwAeclpiLdPz2W2qrH0iPeeACjxj76rQbkfTEErDuO8C8YUPLHP4aiNZJ94gJvXYc5iBPJI2vcdbnT3u0yaQ"
+}
