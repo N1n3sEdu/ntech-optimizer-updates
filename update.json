@@ -1,10 +1,10 @@
 {
-  "version": "2.0.0.0",
-  "releasedAt": "2026-11-20 21:35",
-  "mandatory": false,
-  "changelog": "• Versão inicial v2.0.0 na nuvem Ntech Enterprise\n• 101 otimizações completas de FPS e baixa latência (AES-256-GCM)\n• Intel Hybrid P-Core Pinning + Game Booster 24/7 compatível com Kaspersky\n• Presets competitivos otimizados para VALORANT, CS2, Fortnite e Apex\n• Atualizações automáticas verificadas por ECDSA P-256 e SHA-256",
-  "downloadUrl": "https://github.com/N1n3sEdu/ntech-optimizer-updates/releases/download/v2.0.0/Ntech.Optimizer.exe",
-  "sha256": "BC54028FE5E37598E9CFB3E49C74F16EC8E546C175B13847C873E01079BC8D51",
-  "fileSizeBytes": 2305493,
-  "signature": "oFVwAeclpiLdPz2W2qrH0iPeeACjxj76rQbkfTEErDuO8C8YUPLHP4aiNZJ94gJvXYc5iBPJI2vcdbnT3u0yaQ"
+  "version": "2.0.1.0",
+  "releasedAt": "2026-11-20 21:44",
+  "mandatory": true,
+  "changelog": "• Auto-atualização inteligente ativada em todas as máquinas desatualizadas\n• Download e aplicação automáticos na bandeja (sem UAC e sem interromper partidas — aplica ao fechar o jogo)\n• Detecção automática de retorno de internet + verificação a cada 15 minutos\n• Redundância dupla na nuvem (GitHub Raw + API oficial) e retentativas automáticas\n• Número da versão exibido dinamicamente na barra superior do app",
+  "downloadUrl": "https://github.com/N1n3sEdu/ntech-optimizer-updates/releases/download/v2.0.1/Ntech.Optimizer.exe",
+  "sha256": "19A082DA389F8A4DB9D8519BC02F92475BA88A57D0B5F46D3797AD5501202F08",
+  "fileSizeBytes": 2371029,
+  "signature": "myhjRErjFpCFUjNyd04hNz-3z90FXnyS-sg1XQW1jLG9mdBzd1zi_tIwgnIygG3Ya9w-E9a5EXm-ebgYq6UFCw"
 }
