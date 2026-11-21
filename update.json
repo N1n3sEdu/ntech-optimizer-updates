@@ -1,10 +1,10 @@
 {
-  "version": "2.0.1.0",
-  "releasedAt": "2026-11-20 21:44",
+  "version": "2.0.2.0",
+  "releasedAt": "2026-11-20 21:53",
   "mandatory": true,
-  "changelog": "• Auto-atualização inteligente ativada em todas as máquinas desatualizadas\n• Download e aplicação automáticos na bandeja (sem UAC e sem interromper partidas — aplica ao fechar o jogo)\n• Detecção automática de retorno de internet + verificação a cada 15 minutos\n• Redundância dupla na nuvem (GitHub Raw + API oficial) e retentativas automáticas\n• Número da versão exibido dinamicamente na barra superior do app",
-  "downloadUrl": "https://github.com/N1n3sEdu/ntech-optimizer-updates/releases/download/v2.0.1/Ntech.Optimizer.exe",
-  "sha256": "19A082DA389F8A4DB9D8519BC02F92475BA88A57D0B5F46D3797AD5501202F08",
-  "fileSizeBytes": 2371029,
-  "signature": "myhjRErjFpCFUjNyd04hNz-3z90FXnyS-sg1XQW1jLG9mdBzd1zi_tIwgnIygG3Ya9w-E9a5EXm-ebgYq6UFCw"
+  "changelog": "• Novo design Cyber Toggle Pills com switch animado para Otimizar arquivos de jogos (+FPS) e Criar Ponto de Restauração (SEGURO)\n• Substituição de todas as caixas brancas padrão do Windows por controles dark cyber Ntech Electric Blue em todo o aplicativo",
+  "downloadUrl": "https://github.com/N1n3sEdu/ntech-optimizer-updates/releases/download/v2.0.2/Ntech.Optimizer.exe",
+  "sha256": "F771C3F2D576B326EB486325EBCD932F34D7C59EA6302C3FBB5D5265F18177CE",
+  "fileSizeBytes": 2375125,
+  "signature": "g6KmrH2JnclEIUsHv0l8h0y7weyNkPjC5hnqfQ5OExelygeWkzExKpsmyFf5RZGPYNT4QEPhWwNY9CB-dzk0kQ"
 }
